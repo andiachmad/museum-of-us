@@ -1,0 +1,30 @@
+node_modules/
+dist/
+
+# Local environment files; keep the placeholder template trackable.
+.env
+.env.*
+!.env.example
+
+# Local Vercel project metadata.
+.vercel/
+
+# Logs and operating-system files.
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Personal photos are supplied separately for deployment.
+/public/assets/photos/photo-01.png
+/public/assets/photos/photo-02.png
+/public/assets/photos/photo-03.png
+/public/assets/photos/photo-04.png
+/public/assets/photos/photo-05.png
+/public/assets/photos/photo-06.png
+/public/assets/photos/photo-07.png
+/public/assets/photos/photo-08.png
+/public/assets/photos/letter-01.png
+/public/assets/photos/letter-02.png
+/public/assets/photos/letter-03.png
+/public/assets/photos/letter-04.png
