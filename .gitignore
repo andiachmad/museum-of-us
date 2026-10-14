@@ -16,6 +16,8 @@ Thumbs.db
 Desktop.ini
 
 # Personal photos are supplied separately for deployment.
+/public
+public/
 /public/assets/photos/photo-01.png
 /public/assets/photos/photo-02.png
 /public/assets/photos/photo-03.png
